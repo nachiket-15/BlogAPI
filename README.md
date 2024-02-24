@@ -13,5 +13,5 @@ Created a robust RESTful API using Node.js and Express.js for managing a collect
 - Axios
 - JavaScript
 
-![Image Description](image_file_path)
+![Image Description](https://github.com/nachiket-15/BlogAPI/blob/main/Screenshot%20from%202024-02-24%2014-28-02.png)
 
