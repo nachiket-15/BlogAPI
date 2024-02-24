@@ -13,3 +13,5 @@ Created a robust RESTful API using Node.js and Express.js for managing a collect
 - Axios
 - JavaScript
 
+![Image Description](image_file_path)
+
